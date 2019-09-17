@@ -1,2 +1,0 @@
-# AlecLastimosa.github.io
- 
