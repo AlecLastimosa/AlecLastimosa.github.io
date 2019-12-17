@@ -1,0 +1,74 @@
+{
+ "Hotel": [
+  {
+   "price": "$3,880",
+   "name": "The Peninsula Hong Kong",
+   "rating": "9.4"
+  },
+  {
+   "price": "$1,776",
+   "name": "Grand Hyatt Hong Kong",
+   "rating": "9.1"
+  },
+  {
+   "price": "$767",
+   "name": "Harbour Grand Kowloon",
+   "rating": "8.7"
+  },
+  {
+   "price": "$792",
+   "name": "Hong Kong Gold Coast",
+   "rating": "8.4"
+  },
+  {
+   "price": "$1,088",
+   "name": "Cordis Hong Kong",
+   "rating": "9.1"
+  },
+  {
+   "price": "$1,954",
+   "name": "Disney's Hollywood Hotel",
+   "rating": "8.4"
+  },
+  {
+   "price": "$952",
+   "name": "Lanson Place",
+   "rating": "9.0"
+  },
+  {
+   "price": "$989",
+   "name": "Hong Kong SkyCity Marriott Hotel",
+   "rating": "8.8"
+  },
+  {
+   "price": "$2,529",
+   "name": "W Hong Kong",
+   "rating": "9.0"
+  },
+  {
+   "price": "$919",
+   "name": "Hyatt Regency Hong Kong Sha Tin",
+   "rating": "8.8"
+  },
+  {
+   "price": "$1,319",
+   "name": "Hotel ICON",
+   "rating": "9.4"
+  },
+  {
+   "price": "$626",
+   "name": "Crowne Plaza Hong Kong Kowloon East",
+   "rating": "8.9"
+  },
+  {
+   "price": "$888",
+   "name": "Hyatt Centric Victoria Harbour Hong Kong",
+   "rating": "8.5"
+  },
+  {
+   "price": "$1,978",
+   "name": "The Murray, Hong Kong, a Niccolo",
+   "rating": "9.1"
+  }
+ ]
+}
